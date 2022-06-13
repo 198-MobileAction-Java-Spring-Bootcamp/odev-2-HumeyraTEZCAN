@@ -4,3 +4,4 @@ java: cannot find symbol
   
   Kodları doğru yazdığımı düşünüyorum, onların üzerinden değerlendirirseniz çok sevinirim :).
   Java JPA ile ilgili bir problemmiş sanırım çözünce hemen swagger ekran görüntülerini de yükleyeceğim. 
+  Bir de henüz controllerları birleştirmedim. 
